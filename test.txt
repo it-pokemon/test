@@ -3,3 +3,5 @@ Test feature
 Test feature 1
 
 Test feature 2
+
+Test feature 3
